@@ -52,6 +52,8 @@ http://localhost:3000/api/topics?search=programming&sort=name
 cd totle-topic-api-using-express
 npm install
 node app.js
+```
+
 
 ### ✅ 2. Using Express (`totle-topic-api-using-only-node`)
 
@@ -61,4 +63,4 @@ cd totle-topic-api-using-only-node
 npm install
 node app.js
 
-
+```
