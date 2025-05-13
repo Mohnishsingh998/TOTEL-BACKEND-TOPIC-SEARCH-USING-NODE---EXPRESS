@@ -11,7 +11,7 @@ This project contains two implementations of a **Topic Retrieval API** as part o
 ┣ totle-topic-api-using-express\
 ┃   ┣ app.js\
 ┃   ┣ controllers\
-┃   ┣ data\
+┃    ┣ data\
 ┃   ┣ node_modules\
 ┃   ┣ package-lock.json\
 ┃   ┣ package.json\
