@@ -9,9 +9,9 @@ This project contains two implementations of a **Topic Retrieval API** as part o
 
 ## 📂 Project Structure
 
-├── totle-topic-api-using-express/
-│   ├── app.js/
-│   ├── controllers/
+├── totle-topic-api-using-express \
+│   ├── app.js \
+│   ├── controllers \
 │   ├── data/
 │   ├── node_modules/
 │   ├── package-lock.json/
