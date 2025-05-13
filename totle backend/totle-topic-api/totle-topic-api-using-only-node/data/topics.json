@@ -1,0 +1,22 @@
+[
+  { "id": "1", "name": "JavaScript", "category": "Programming" },
+  { "id": "2", "name": "Machine Learning", "category": "Artificial Intelligence" },
+  { "id": "3", "name": "Node.js", "category": "Backend" },
+  { "id": "4", "name": "React", "category": "Frontend" },
+  { "id": "5", "name": "Cybersecurity", "category": "Security" },
+  { "id": "6", "name": "Data Structures", "category": "Computer Science" },
+  { "id": "7", "name": "Python", "category": "Programming" },
+  { "id": "8", "name": "MongoDB", "category": "Database" },
+  { "id": "9", "name": "Express.js", "category": "Backend" },
+  { "id": "10", "name": "HTML", "category": "Frontend" },
+  { "id": "11", "name": "CSS", "category": "Frontend" },
+  { "id": "12", "name": "TypeScript", "category": "Programming" },
+  { "id": "13", "name": "PostgreSQL", "category": "Database" },
+  { "id": "14", "name": "Docker", "category": "DevOps" },
+  { "id": "15", "name": "Kubernetes", "category": "DevOps" },
+  { "id": "16", "name": "Java", "category": "Programming" },
+  { "id": "17", "name": "C++", "category": "Programming" },
+  { "id": "18", "name": "Redis", "category": "Database" },
+  { "id": "19", "name": "GraphQL", "category": "API" },
+  { "id": "20", "name": "AWS", "category": "Cloud Computing" }
+]
