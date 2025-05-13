@@ -37,7 +37,7 @@ This project contains two implementations of a **Topic Retrieval API** as part o
 
 ## 🌐 Example URLs
 
-http://localhost:3000/api/topics?search=java /
+http://localhost:3000/api/topics?search=java 
 
 http://localhost:3000/api/topics?search=programming&sort=name
 
