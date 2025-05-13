@@ -17,11 +17,11 @@ This project contains two implementations of a **Topic Retrieval API** as part o
 ┃ ┣ package.json\
 ┃ ┣ routes\
 ┗ totle-topic-api-using-only-node\
-  ┣ app.js\
-  ┣ data\
-  ┣ node_modules\
-  ┣ package-lock.json\
-  ┣ package.json\
+   ┣ app.js\
+   ┣ data\
+   ┣ node_modules\
+   ┣ package-lock.json\
+   ┣ package.json\
 
 ---
 
