@@ -8,21 +8,20 @@ This project contains two implementations of a **Topic Retrieval API** as part o
 ---
 
 ## 📂 Project Structure
-
-├── totle-topic-api-using-express \
-│   ├── app.js \
-│   ├── controllers \
-│   ├── data/
-│   ├── node_modules/
-│   ├── package-lock.json/
-│   ├── package.json/
-│   └── routes/
-└── totle-topic-api-using-only-node/
-├── app.js/
-├── data/
-├── node_modules/
-├── package-lock.json/
-└── package.json/
+├── totle-topic-api-using-express\
+│   ├── app.js\
+│   ├── controllers\
+│   ├── data\
+│   ├── node_modules\
+│   ├── package-lock.json\
+│   ├── package.json\
+│   └── routes\
+└── totle-topic-api-using-only-node\
+├── app.js\
+├── data\
+├── node_modules\
+├── package-lock.json\
+└── package.json\
 
 
 ---
@@ -53,3 +52,14 @@ http://localhost:3000/api/topics?search=programming&sort=name
 cd totle-topic-api-using-express
 npm install
 node app.js
+
+
+### ✅ 2. Using Express (`totle-topic-api-using-only-node`)
+
+#### 📁 Navigate to the folder:
+```bash
+cd totle-topic-api-using-only-node
+npm install
+node app.js
+
+
