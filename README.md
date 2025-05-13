@@ -23,12 +23,6 @@ This project contains two implementations of a **Topic Retrieval API** as part o
 ├── package-lock.json\
 └── package.json\
 
-yaml
-Copy
-Edit
-
-
-
 ---
 
 ## 🧪 API Endpoint (Common to Both)
